@@ -1,0 +1,52 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "titulo": "O labirinto do Logcat",
+            "categoria": "Back End",
+            "capa": "https://cdn3.gnarususercontent.com.br/2802-react-praticando/img2.png",
+            "link": "https://www.youtube.com/embed/ypvGqZGJBls",
+            "descricao": "Lorem ipsum dolor sit amet. Aut molestiae culpa qui quos doloremque sit dolores blanditiis! In autem inventore ut perspiciatis quam et error natus. Et perferendis quasi qui autem quisquam vel tenetur fugiat. Qui voluptatem eveniet sed eaque sequi qui mollitia perferendis."
+        },
+        {
+            "id": 2,
+            "titulo": "Um componente no espaço",
+            "categoria": "Front End",
+            "capa": "https://cdn3.gnarususercontent.com.br/2802-react-praticando/img1.png",
+            "link": "https://www.youtube.com/embed/jK0uiQ1ZQQQ",
+            "descricao": "Lorem ipsum dolor sit amet. Aut molestiae culpa qui quos doloremque sit dolores blanditiis! In autem inventore ut perspiciatis quam et error natus. Et perferendis quasi qui autem quisquam vel tenetur fugiat. Qui voluptatem eveniet sed eaque sequi qui mollitia perferendis."
+        },
+        {
+            "id": 3,
+            "titulo": "O poderoso JavaScript",
+            "categoria": "Front End",
+            "capa": "https://cdn3.gnarususercontent.com.br/2802-react-praticando/img4.png",
+            "link": "https://www.youtube.com/embed/N1BSG02z-Mw",
+            "descricao": "Lorem ipsum dolor sit amet. Aut molestiae culpa qui quos doloremque sit dolores blanditiis! In autem inventore ut perspiciatis quam et error natus. Et perferendis quasi qui autem quisquam vel tenetur fugiat. Qui voluptatem eveniet sed eaque sequi qui mollitia perferendis."
+        },
+        {
+            "id": 4,
+            "titulo": "Dart, o Caçador de Andróides",
+            "categoria": "Inovação",
+            "capa": "https://cdn3.gnarususercontent.com.br/2802-react-praticando/img3.png",
+            "link": "https://www.youtube.com/embed/LLmBWjF6F8M",
+            "descricao": "Lorem ipsum dolor sit amet. Aut molestiae culpa qui quos doloremque sit dolores blanditiis! In autem inventore ut perspiciatis quam et error natus. Et perferendis quasi qui autem quisquam vel tenetur fugiat. Qui voluptatem eveniet sed eaque sequi qui mollitia perferendis."
+        },
+        {
+            "id": 5,
+            "titulo": "Dart, o Caçador de Andróides",
+            "categoria": "Inovação",
+            "capa": "https://cdn3.gnarususercontent.com.br/2802-react-praticando/img3.png",
+            "link": "https://www.youtube.com/embed/LLmBWjF6F8M",
+            "descricao": "Lorem ipsum dolor sit amet. Aut molestiae culpa qui quos doloremque sit dolores blanditiis! In autem inventore ut perspiciatis quam et error natus. Et perferendis quasi qui autem quisquam vel tenetur fugiat. Qui voluptatem eveniet sed eaque sequi qui mollitia perferendis."
+        },
+        {
+            "id": 6,
+            "titulo": "Dart, o Caçador de Andróides",
+            "categoria": "Gestão",
+            "capa": "https://cdn3.gnarususercontent.com.br/2802-react-praticando/img3.png",
+            "link": "https://www.youtube.com/embed/LLmBWjF6F8M",
+            "descricao": "Lorem ipsum dolor sit amet. Aut molestiae culpa qui quos doloremque sit dolores blanditiis! In autem inventore ut perspiciatis quam et error natus. Et perferendis quasi qui autem quisquam vel tenetur fugiat. Qui voluptatem eveniet sed eaque sequi qui mollitia perferendis."
+        }
+    ]
+}
